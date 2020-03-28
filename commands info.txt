@@ -1,0 +1,21 @@
+cd H:\Development\ML\in notebooks\upy\Projects\Web scrapping\WebscrapperText
+
+heroku login
+redirectst to web page for authentication
+
+heroku login
+git init
+git add .
+git status
+git commit -am "comments.."
+/////////////
+git config --global user.email nilaykarade@gmail.com
+//////////////
+
+heroku create
+//creates horuku app
+git push heroku master
+
+
+///
+heroku apps:destroy --app afternoon-fortress-24870 --confirm afternoon-fortress-24870
